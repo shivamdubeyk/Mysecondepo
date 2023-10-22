@@ -2,7 +2,7 @@
 int main ()
 {
     int a ;
-    a = 50 ;
+    a = 60 ;
     printf ("a = %d" ,a) ;
     return 0 ;
 }
